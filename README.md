@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fadna-lakhouchen/fadna-lakhouchen/main/github_readme_banner.png" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Fadna+Lakhouchen;Fullstack+Developer;Mobile+App+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=70&lines=Hi+👋,+I'm+Fadna+Lakhouchen;Fullstack+Developer;Mobile+App+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
 
   <a href="https://www.linkedin.com/in/fadna-lakhouchen-332987341/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
