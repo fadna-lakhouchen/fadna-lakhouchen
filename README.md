@@ -1,12 +1,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/fadna-lakhouchen/fadna-lakhouchen/main/github_readme_banner.png" width="100%" />
 
-  # 👋 Hello, I'm Fadna Lakhouchen
-  ### 🚀 Fullstack Developer | Mobile Enthusiast | Problem Solver
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Fadna+Lakhouchen;Fullstack+Developer;Mobile+App+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadna-lakhouchen)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://fadna.me)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadna.lakhouchen@email.com)
+  <a href="https://www.linkedin.com/in/fadna-lakhouchen-332987341/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fadna.lakhouchen@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
   ---
 </div>
@@ -55,11 +57,35 @@ I am a passionate **Fullstack Developer** based in **Morocco** 🇲🇦, dedicat
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🛍️ E-commerce Parapharmacy** | Fullstack PFE project featuring dynamic cart management, secure checkout, and a comprehensive admin dashboard. | `HTML`, `CSS`, `JS`, `Bootstrap`, `PHP`, `MySQL` |
-| **🏛️ Architecture Vitrine Site** | Professional platform for a Cabinet d'Architecture, digitizing client requests and centralizing project management. | `HTML`, `CSS`, `JS`, `Tailwind`, `PHP`, `MySQL` |
-| **📄 Contract Automation Tool** | Desktop application that automates administrative contracts by generating Word documents from user input. | `Python`, `Tkinter`, `Docx` |
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ E-commerce Parapharmacy</h3>
+      <p>Fullstack PFE project featuring dynamic cart management, secure checkout, and a comprehensive admin dashboard.</p>
+      <b>Tech Stack:</b> <br />
+      <code>HTML</code> <code>CSS</code> <code>JS</code> <code>Bootstrap</code> <code>PHP</code> <code>MySQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Architecture Vitrine Site</h3>
+      <p>Professional platform for a Cabinet d'Architecture, digitizing client requests and centralizing project management.</p>
+      <b>Tech Stack:</b> <br />
+      <code>HTML</code> <code>CSS</code> <code>JS</code> <code>Tailwind</code> <code>PHP</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Contract Automation Tool</h3>
+      <p>Desktop application that automates administrative contracts by generating Word documents from user input.</p>
+      <b>Tech Stack:</b> <br />
+      <code>Python</code> <code>Tkinter</code> <code>Docx</code>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty space or placeholder for future project -->
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,12 +105,16 @@ I am a passionate **Fullstack Developer** based in **Morocco** 🇲🇦, dedicat
 ## 📫 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/fadna-lakhouchen">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <br />
+  <a href="https://www.linkedin.com/in/fadna-lakhouchen-332987341/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fadna_Lakhouchen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:fadna.lakhouchen@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-fadna.lakhouchen%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br />
+  <br />
 </div>
 
 <p align="center">
